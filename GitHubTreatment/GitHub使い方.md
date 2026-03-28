@@ -1,0 +1,22 @@
+# GitHubプロジェクトの立ち上げ方
+- ### 1 立ち上げ・設定
+    - 1 GitHubのホーム画面の「New」ボタンを押す
+    - 2 Repository name にプロジェクト名を入力
+    - 3 Description にプロジェクトの概要を入力
+    - 4 Choose visibility  を任意の値に
+    - 5 Add READMEをONに
+    - 6　緑色のボタンを押して作成
+- ### 2フォルダ・ファイルの作成方法
+    - 1 creating a new file」 をクリック
+    - 2 上のテキストボックスにフォルダ名/README.md と入力
+    - 3 緑色のボタンを押す
+- ### 3VsCodeとの連携
+    - GitHubの「Code」をクリック
+    - 「HTTPS」の文字列をコピー
+    - VsCodeを開く
+    - メニュー画面の「Git リポジトリのクローン」をクリック
+    - コピーした文字列をペースト
+    - ローカル保存するファイルを選ぶ
+    - 
+
+
