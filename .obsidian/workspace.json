@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "63088485808834be",
+    "type": "split",
+    "children": [
+      {
+        "id": "108744a374d54785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0eb886a7b471e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【個】プログラミング理論/0メモ・目次.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0メモ・目次"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da31df258bbbf352",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e20f53893180c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0201e25b5f5ea775",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "af78ee1a72dd72ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "725f87fd47176b8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4945acc3c54e0cd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb25630a3abbdb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f313695d6adf6819",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "【個】プログラミング理論/0メモ・目次.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "0メモ・目次へのバックリンク"
+            }
+          },
+          {
+            "id": "51e1543317fe22e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "【個】プログラミング理論/0メモ・目次.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "0メモ・目次からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "f9dd12ace3966f32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "23f65813a86c3a6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "241d9ae428787fce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "【個】プログラミング理論/0メモ・目次.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "0メモ・目次のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "a0eb886a7b471e6e",
+  "lastOpenFiles": [
+    "GitHubTreatment/GitHub使い方.md",
+    "【個】プログラミング理論/0メモ・目次.md",
+    "【個】piza復習/Cs復習00目次.md",
+    "【個】piza復習/Cs復習01.md",
+    "【個】piza復習/Cs復習02.md",
+    "【個】piza復習/Cs復習03.md",
+    "【個】piza復習/0目次.md"
+  ]
+}
