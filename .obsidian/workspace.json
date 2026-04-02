@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【個】piza復習/例外記法.md",
+                "file": "学年ガイダンス/2年生ガイダンス.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "例外記法"
+              "title": "2年生ガイダンス"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "a0eb886a7b471e6e",
   "lastOpenFiles": [
+    "【個】piza復習/例外記法.md",
     "【個】piza復習/コーティング記法.md",
     "【個】piza復習/Cs復習02.md",
     "【個】piza復習/Cs復習03.md",
