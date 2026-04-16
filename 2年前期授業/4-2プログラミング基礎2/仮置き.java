@@ -1,4 +1,6 @@
-int y=2026;
-if(y%400==0||y%100&&y%4){
-    
+switch (a){
+    case 1:
+    case 2:
+    case 3:
+    default:
 }
