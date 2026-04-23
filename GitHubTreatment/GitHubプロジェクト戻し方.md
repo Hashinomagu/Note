@@ -1,0 +1,4 @@
+- 1　GitHubDeskTopを開く
+- 2 Historyより当該ログを探す
+- 3 2で示したファイルを右クリック
+- 4 「Revert Changes in Commit」をクリック
