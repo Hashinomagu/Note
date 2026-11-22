@@ -13,3 +13,14 @@ const data = text.trim().split(/\r\n|\n/).map(line => line.split(','));
 return data;
 
 }
+
+
+
+
+
+
+const dater=loadCSV("schedule.csv");
+dater.then(data => {
+console.log(data[0][0]); // ID
+console.log(data[0][1]); // 名前
+});

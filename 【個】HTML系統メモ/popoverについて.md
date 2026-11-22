@@ -1,9 +1,9 @@
  .   popoverについて
 ## popoverとは
 クリックするとブラウザ内で表示されるウィンドみたいなもの
-![](0001.png)
+![](zz0001.png)
 ### ↓
-![](0002.png)
+![](zz0002.png)
 ```
        <button popovertarget="view">ボタン</button>
        <div id="view" popover>
@@ -21,9 +21,9 @@
        </div>
 ```
 
-![](0003.png)
+![](zz0003.png)
 ### ↓
-![](0003.png)
+![](zz0003.png)
 
 ### javascirptを使用して制御
 ```
